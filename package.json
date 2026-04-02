@@ -1,0 +1,14 @@
+{
+  "name": "erp-application",
+  "version": "1.0.0",
+  "description": "ERP application for managing business processes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "rahulsingh9675485593-create",
+  "license": "ISC"
+}
